@@ -1,0 +1,8 @@
+table that has all the information
+Filters for:
+	- Brand
+	- Drive Type
+	- Range WLTP (adjustable slider)
+	- Price range (adjustable slider)
+	- Battery Chemistry
+Order ascending by Range-to-Cost
